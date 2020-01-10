@@ -1,0 +1,7 @@
+Step 1: Create new repository
+Step 2: Clone repository from top right corner and using git clone
+Step 3: Do required modifications.
+Step 4: Add the files to git by doing "git add (whatever files)"
+Step 5: Commit the files to git by going "git commit"
+Step 6: Push the files by going "git push origin master"
+Step 7: DONE
